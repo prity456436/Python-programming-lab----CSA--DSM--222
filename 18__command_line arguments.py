@@ -1,3 +1,5 @@
+# 18.Accept command-line arguments and perform arithmetic operations.
+
 import sys
 
 # check if arguments are given
