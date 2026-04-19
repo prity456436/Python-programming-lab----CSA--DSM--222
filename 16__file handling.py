@@ -1,5 +1,5 @@
 #16.Read a file and count number of lines, words, and characters.
-file = open("sample.txt", "r")
+file = open("E:\\sample.txt", "r")
 
 lines = file.readlines()
 
